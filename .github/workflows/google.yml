@@ -35,9 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: ad-m/github-push-action@master
-        with:
-          branch: gke_deploy
+        uses: actions/checkout@v3
 
       # Setup gcloud CLI
       - uses: GoogleCloudPlatform/github-actions/setup-gcloud@v0
