@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: web-app
-          image: REGISTRY_HOSTNAME/spring2020-274107/IMAGE:GITHUB_SHA
+          image: REGISTRY_HOSTNAME/stunning-oasis-359415/IMAGE:GITHUB_SHA
           ports:
             - containerPort: 8080
