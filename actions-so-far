@@ -1,0 +1,18 @@
+created a mern app
+    created react app
+    Express JS
+    connected via axios
+    MangoDB
+
+unit tests
+    Frontent functions & async tests
+    backend basic tests
+
+Contanerize via docker file
+
+github actions
+    nodeJS actions
+    google GKE
+        NPM buiild
+        build/ publish images
+        deploy to GKE
